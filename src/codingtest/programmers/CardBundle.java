@@ -16,7 +16,7 @@ public class CardBundle {
         for (String card : cards1) {
             cardSet.add(card);
         }
-        for (String card: cards2) {
+        for (String card : cards2) {
             cardSet.add(card);
         }
 
