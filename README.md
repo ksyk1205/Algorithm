@@ -6,3 +6,4 @@
 - [추억 점수](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/MemoryScore.java)
 - [카드 뭉치](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/CardBundle.java)
 - [문자열 나누기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/SeparateString.java)
+- [둘만의 암호](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/OurPassword.java)
