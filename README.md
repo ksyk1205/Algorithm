@@ -9,3 +9,5 @@
 - [둘만의 암호](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/OurPassword.java)
 - [크기가 작은 부분 문자열](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/SmallSubstring.java)
 - [2016년](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/Year2016.java)
+- [없는 숫자 더하기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/AddMissingNumber.java)
+- [최소 직사각형](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/MinimumRectangle.java)
