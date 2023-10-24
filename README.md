@@ -12,3 +12,5 @@
 - [없는 숫자 더하기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/AddMissingNumber.java)
 - [최소 직사각형](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/MinimumRectangle.java)
 - [가운데 글자 가져오기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/GetMiddleLetter.java)
+- [삼총사](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/Trio.java)
+- [달리기 경주](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/RunningRace.java)
