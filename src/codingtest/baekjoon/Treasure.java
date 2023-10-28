@@ -31,6 +31,5 @@ public class Treasure {
         }
 
         System.out.println(sum);
-
     }
 }
