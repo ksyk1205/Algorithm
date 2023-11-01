@@ -19,4 +19,5 @@
 - [체육복](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/WorkoutClothes.java)
 
 ### Baekjoon
-- [보물](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/Treasure.java)
+- [1026번 보물](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/Treasure.java)
+- [1021번 회전하는 큐](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/RotationQueue.java)
