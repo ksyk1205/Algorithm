@@ -22,3 +22,4 @@
 - [1026번 보물](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/Treasure.java)
 - [1021번 회전하는 큐](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/RotationQueue.java)
 - [1049번 기타줄](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/GuitarStrings.java)
+- [1173번 운동](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/Exercise.java)
