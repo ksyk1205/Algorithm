@@ -17,6 +17,7 @@
 - [콜라 문제](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/ColaProblem.java)
 - [가장 가까운 같은 글자](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/NearestSameLetter.java)
 - [체육복](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/WorkoutClothes.java)
+- [PCCE 기출문제 9번 / 이웃한 칸](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/NeighborhoodCompartment.java)
 
 ### Baekjoon
 - [1026번 보물](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/Treasure.java)
