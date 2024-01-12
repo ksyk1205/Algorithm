@@ -19,8 +19,8 @@ public class FruitSeller {
         int boxCount = score.length;
         while (boxCount - m >= 0) {
             boxCount -= m;
-            int maxScore = score[boxCount];
-            totalProfit += maxScore * m;
+            int minScore = score[boxCount];
+            totalProfit += minScore * m;
         }
 
         return totalProfit;
