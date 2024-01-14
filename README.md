@@ -26,4 +26,5 @@
 - [1021번 회전하는 큐](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/RotationQueue.java)
 - [1049번 기타줄](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/GuitarStrings.java)
 - [1173번 운동](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/Exercise.java)
-- [1027번 고층 건물](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/Skyscraper.java)
+- [1027번 고층 건](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/Skyscraper.java)
+- [1094번 막대기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/Stick.java)
