@@ -20,6 +20,7 @@
 - [과일 장수](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/FruitSeller.java)
 - [PCCE 기출문제 9번 / 이웃한 칸](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/NeighborhoodCompartment.java)
 - [PCCE 기출문제 10번 / 데이터 분석](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/DataAnalysis.java)
+- [2024 KAKAO WINTER INTERNSHIP / 가장 많이 받은 선물](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/ALotOfGift.java)
 
 ### Baekjoon
 - [1026번 보물](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/Treasure.java)
