@@ -26,6 +26,7 @@
 - [전화번호 목록](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/UnsuccessfulRunner.java)
 - [의상](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/Clothes.java)
 - [베스트 앨범](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/BestAlbum.java)
+- [같은 숫자는 싫어](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/DontLikeSameNumber.java)
 
 ### Baekjoon
 - [1026번 보물](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/Treasure.java)
