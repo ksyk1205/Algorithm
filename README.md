@@ -32,6 +32,7 @@
 - [같은 숫자는 싫어](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/DontLikeSameNumber.java)
 - [올바른 괄호](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/CorrectBrackets.java)
 - [기능 개발](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/FunctionDevelopment.java)
+- [제출 내역](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/DetailsOfSubmission.java)
 
 ### Baekjoon
 
