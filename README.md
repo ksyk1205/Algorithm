@@ -37,6 +37,7 @@
 - [주식 가격](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/StockPrice.java)
 - [k번째수](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/KNumber.java)
 - [가장 큰 수](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/TheLargestNumber.java)
+- [H-Index](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/HIndex.java)
 
 ### Baekjoon
 
