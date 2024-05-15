@@ -40,6 +40,7 @@
 - [최소 직사각형](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/MinimumRectangle.java)
 - [모의고사](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/MockTest.java)
 - [소수 찾기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/FindingPrimeNumbers.java)
+- [카펫](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/Carpet.java)
 
 ### Baekjoon
 
