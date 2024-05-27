@@ -45,6 +45,7 @@
 - [옹알이](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/Babbling.java)
 - [푸드 파이터 대회](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/FoodFighterContest.java)
 - [타겟 넘버](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/TargetNumber.java)
+- [덧칠하기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/PaintingOver.java)
 
 ### Baekjoon
 
