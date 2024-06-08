@@ -47,6 +47,7 @@
 - [타겟 넘버](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/TargetNumber.java)
 - [덧칠하다](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/PaintingOver.java)
 - [대충 만든 자판](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/RoughKeyboard.java)
+- [명예의 전당(1)](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/HallOfFame.java)
 
 ### Baekjoon
 
