@@ -60,3 +60,4 @@
 - [1027번 고층 건](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/Skyscraper.java)
 - [1094번 막대기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/Stick.java)
 - [1058번 친구](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/Friend.java)
+- [9086번 문자열](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/Strings.java)
