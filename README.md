@@ -63,4 +63,5 @@
 - [9086번 문자열](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/Strings.java)
 - [27866번 문자와 문자열](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/CharactersAndStrings.java)
 - [1181번 단어 정렬](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/SortWords.java)
-- [2743번 단어 길이 재기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/WordLength.java)
+- [2743번 단어 길이 재](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/WordLength.java)
+- [10988번 팰린드롬인지 확인하기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/Palindrome.java)
