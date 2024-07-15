@@ -67,3 +67,4 @@
 - [10988번 팰린드롬인지 확인하기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/Palindrome.java)
 - [11721번 열 개씩 끊어 출력하기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/CutOutputTenPieces.java)
 - [10808번 알파벳 개수](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/AlphabetCount.java)
+- [11478번 서로 다른 부분 문자열의 개수](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/NumberDifferentString.java)
