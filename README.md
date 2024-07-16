@@ -69,3 +69,4 @@
 - [10808번 알파벳 개수](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/AlphabetCount.java)
 - [11478번 서로 다른 부분 문자열의 개수](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/NumberDifferentString.java)
 - [9012번 괄호](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/Parenthesis.java)
+- [1764번 듣보잡](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/ListeningAndWatch.java)
