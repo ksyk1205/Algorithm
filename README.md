@@ -71,3 +71,4 @@
 - [9012번 괄호](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/Parenthesis.java)
 - [1764번 듣보잡](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/ListeningAndWatch.java)
 - [2750번 수 정렬하기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/SortNumber.java)
+- [1920번 수 찾기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/SearchForNumbers.java)
