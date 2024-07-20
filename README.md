@@ -73,3 +73,4 @@
 - [2750번 수 정렬하기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/SortNumber.java)
 - [1920번 수 찾기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/SearchForNumbers.java)
 - [10815번 숫자 카드](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/NumberCard.java)
+- [14425번 문자열 집합](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/StringSet.java)
