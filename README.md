@@ -75,3 +75,4 @@
 - [10815번 숫자 카드](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/NumberCard.java)
 - [14425번 문자열 집합](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/StringSet.java)
 - [1320번 베스트셀러](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/Bestseller.java)
+- [1271번 엄청난 부자2](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/ALotOfMoney2.java)
