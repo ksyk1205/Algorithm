@@ -50,6 +50,7 @@
 - [명예의 전당(1)](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/HallOfFame.java)
 - [구명 보트](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/RescueBoats.java)
 - [기사단원의 무기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/KnightsWeapon.java)
+- [신고 결과 받기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/ReceivingReportResult.java)
 
 ### Baekjoon
 
