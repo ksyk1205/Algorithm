@@ -52,6 +52,7 @@
 - [기사단원의 무기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/KnightsWeapon.java)
 - [신고 결과 받기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/ReceivingReportResult.java)
 - [햄버거 만들기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/MakingHamburgers.java)
+- [숫자 짝꿍](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/NumberPair.java)
 
 ### Baekjoon
 
