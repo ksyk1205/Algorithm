@@ -54,6 +54,7 @@
 - [햄버거 만들기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/MakingHamburgers.java)
 - [숫자 짝](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/NumberPair.java)
 - [최댓값과 최솟값](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/MaximumAndMinimum.java)
+- [최솟값 만들기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/CreateMinimumValue.java)
 
 ### Baekjoon
 
