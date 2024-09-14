@@ -56,6 +56,7 @@
 - [최댓값과 최솟값](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/MaximumAndMinimum.java)
 - [최솟값 만들기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/CreateMinimumValue.java)
 - [귤 고르기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/PickTangerine.java)
+- [행렬의 곱셈](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/MultiplicationMatrices.java)
 
 ### Baekjoon
 
