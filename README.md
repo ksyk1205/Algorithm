@@ -61,6 +61,7 @@
 - [괄호 회전하기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/RotateParentheses.java)
 - [할인 행사](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/DiscountEvent.java)
 - [영어 끝말잇기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/EnglishWordChain.java)
+- [멀리 뛰기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/LongJump.java)
 
 ### Baekjoon
 
