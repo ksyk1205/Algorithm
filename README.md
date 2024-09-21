@@ -59,6 +59,7 @@
 - [행렬의 곱셈](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/MultiplicationMatrices.java)
 - [짝지어 제거하기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/RemovePairings.java)
 - [괄호 회전하기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/RotateParentheses.java)
+- [할인 행사](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/DiscountEvent.java)
 
 ### Baekjoon
 
