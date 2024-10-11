@@ -96,3 +96,4 @@
 - [1205번 등수 구하기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/GettingRanked.java)
 - [1268번 임시 반장 정하기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/ChoosingTemporaryClassPresident.java)
 - [2581번 소수](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/PrimeNumbers.java)
+- [1057번 토너먼트](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/Tournament.java)
