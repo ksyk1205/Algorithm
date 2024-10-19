@@ -99,3 +99,4 @@
 - [1057번 토너먼트](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/Tournament.java)
 - [1100번 하얀 칸](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/WhiteSpace.java)
 - [1929번 소수 구하기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/SavePrimeNumbers.java)
+- [1978번 소수 찾기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/FindPrimeNumber.java)
