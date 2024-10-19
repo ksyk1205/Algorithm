@@ -100,3 +100,4 @@
 - [1100번 하얀 칸](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/WhiteSpace.java)
 - [1929번 소수 구하기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/SavePrimeNumbers.java)
 - [1978번 소수 찾기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/FindPrimeNumber.java)
+- [11653번 소인수분해](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/PrimeFactorization.java)
