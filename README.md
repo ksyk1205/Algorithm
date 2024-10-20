@@ -102,3 +102,4 @@
 - [1978번 소수 찾기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/FindPrimeNumber.java)
 - [11653번 소인수분해](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/PrimeFactorization.java)
 - [10814번 나이순 정렬](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/SortByAge.java)
+- [11651번 좌표 정렬하기2](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/CoordinateAlignment2.java)
