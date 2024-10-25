@@ -65,6 +65,7 @@
 - [모음 사전](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/VowelDictionary.java)
 - [뒤에 있는 큰 수 찾기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/FindBehindLargeNumber.java)
 - [피보나치 수](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/FibonacciNumber.java)
+- [N개의 최소공배수](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/MinimumCommonMultiple.java)
 
 ### Baekjoon
 
@@ -105,4 +106,4 @@
 - [10814번 나이순 정렬](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/SortByAge.java)
 - [11651번 좌표 정렬하기2](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/CoordinateAlignment2.java)
 - [2609번 최대공약수와 최소공배수](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/GcdAndLcm.java)
-- [7568번 덩치](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/Body.java)
+- [7568번 덩](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/Body.java)
