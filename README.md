@@ -109,3 +109,4 @@
 - [11651번 좌표 정렬하기2](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/CoordinateAlignment2.java)
 - [2609번 최대공약수와 최소공배수](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/GcdAndLcm.java)
 - [7568번 덩](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/Body.java)
+- [1037번 약수](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/Divisor.java)
