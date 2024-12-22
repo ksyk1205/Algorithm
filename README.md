@@ -69,6 +69,7 @@
 - [JadenCase 문자열 만들기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/CreateJadenCaseString.java)
 - [구명보트](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/Lifeboat.java)
 - [더 맵게](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/MoreSpicy.java)
+- [이중우선순위큐](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/DoublePriorityQueue.java)
 
 ### Baekjoon
 
