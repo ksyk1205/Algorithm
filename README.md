@@ -68,6 +68,7 @@
 - [N개의 최소공배수](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/MinimumCommonMultiple.java)
 - [JadenCase 문자열 만들기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/CreateJadenCaseString.java)
 - [구명보트](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/Lifeboat.java)
+- [더 맵게](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/MoreSpicy.java)
 
 ### Baekjoon
 
