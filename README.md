@@ -75,6 +75,7 @@
 - [n^2 배열 자르기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/CutArrangement.java)
 - [점프와 순간이동](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/JumpTeleport.java)
 - [땅따먹기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/PlayHopscotch.java)
+- [정수삼각형](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/IntegerTriangle.java)
 
 ### Baekjoon
 
