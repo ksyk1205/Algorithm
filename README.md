@@ -76,7 +76,8 @@
 - [점프와 순간이동](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/JumpTeleport.java)
 - [땅따먹기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/PlayHopscotch.java)
 - [정수삼각형](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/IntegerTriangle.java)
-- [롤케이크 자르기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/CuttingRollCake.java)
+- [롤케이크 자르](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/CuttingRollCake.java)
+- [숫자의 표현](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/NumbersExpression.java)
 
 ### Baekjoon
 
