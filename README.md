@@ -78,6 +78,7 @@
 - [정수삼각형](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/IntegerTriangle.java)
 - [롤케이크 자르](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/CuttingRollCake.java)
 - [숫자의 표현](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/NumbersExpression.java)
+- [다음 큰 숫자](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/NextBigNumber.java)
 
 ### Baekjoon
 
