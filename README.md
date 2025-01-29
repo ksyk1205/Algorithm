@@ -80,6 +80,7 @@
 - [숫자의 표현](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/NumbersExpression.java)
 - [다음 큰 숫자](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/NextBigNumber.java)
 - [택배 상자](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/DeliveryBox.java)
+- [연속 부분 수열 합의 개수](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/NumberOfElementsSum.java)
 
 ### Baekjoon
 
