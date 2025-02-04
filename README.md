@@ -78,6 +78,7 @@
 - [택배 상자](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/DeliveryBox.java)
 - [연속 부분 수열 합의 개수](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/NumberOfElementsSum.java)
 - [예상 대진표](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/ExpectedMatchSheet.java)
+- [마법의 엘레베이터](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/MagicalElevator.java)
 
 #### 🔥 Level 3
 - [베스트 앨범](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/BestAlbum.java)
