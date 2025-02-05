@@ -38,6 +38,7 @@
 - [숫자 짝꿍](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/NumberPair.java)
 - [소수 찾기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/FindingPrimeNumbers.java)
 - [옹알이](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/Babbling.java)
+- [PCCP 기출문제 1번 / 동영상 재생기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/VideoPlayer.java)
 
 #### 🚀 Level 2
 - [전화번호 목록](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/UnsuccessfulRunner.java)
