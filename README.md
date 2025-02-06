@@ -144,3 +144,4 @@
 
 ### 🔮 Leetcode
 - [MergeSortedArray](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/MergeSortedArray.java)
+- [RemoveElements](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/RemoveElements.java)
