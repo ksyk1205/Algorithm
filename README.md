@@ -110,8 +110,6 @@
 - [11721번 열 개씩 끊어 출력하기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/CutOutputTenPieces.java)
 - [27866번 문자와 문자열](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/CharactersAndStrings.java)
 
-
-
 #### 🥈 Silver
 - [1021번 회전하는 큐](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/RotationQueue.java)
 - [1026번 보물](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/Treasure.java)
@@ -139,7 +137,10 @@
 - [11478번 서로 다른 부분 문자열의 개수](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/NumberDifferentString.java)
 - [11651번 좌표 정렬하기2](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/CoordinateAlignment2.java)
 
-
-
 #### 🥇 Gold 
 - [1027번 고층 건물](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/baekjoon/Skyscraper.java)
+
+---
+
+### 🔮 Leetcode
+- [MergeSortedArray](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/MergeSortedArray.java)
