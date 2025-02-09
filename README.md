@@ -143,11 +143,18 @@
 ---
 
 ### 🔮 Leetcode
+#### Array / String
 - [Merge Sorted Array](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/MergeSortedArray.java)
 - [Remove Elements](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/RemoveElements.java)
 - [Remove Duplicates from Sorted Array](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/RemoveDuplicatesFromSortedArray.java)
 - [Remove Duplicates from Sorted Array II](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/RemoveDuplicatesFromSortedArray2.java)
+
+#### Two Pointers
 - [Valid Palindrome](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/ValidPalindrome.java)
+
+#### Sliding Window
+- [Minimum Size Subarray Sum](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/SimplifyPath.java)
+
+#### Stack
 - [Valid Parentheses](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/ValidParentheses.java)
 - [Simplify Path](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/SimplifyPath.java)
-- [Minimum Size Subarray Sum](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/SimplifyPath.java)
