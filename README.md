@@ -154,6 +154,11 @@
 
 #### Sliding Window
 - [Minimum Size Subarray Sum](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/SimplifyPath.java)
+- [Longest Substring Without Repeating Characters](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/LongestSubstringWithoutRepeatingCharacters.java)
+
+#### Hashmap
+- [Ransom Note](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/RansomNote.java)
+- [Isomorphic Strings](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/IsomorphicStrings.java)
 
 #### Stack
 - [Valid Parentheses](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/ValidParentheses.java)
