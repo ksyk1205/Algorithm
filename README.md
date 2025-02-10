@@ -151,6 +151,7 @@
 
 #### Two Pointers
 - [Valid Palindrome](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/ValidPalindrome.java)
+- [Is Subsequence](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/IsSubsequence.java)
 
 #### Sliding Window
 - [Minimum Size Subarray Sum](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/SimplifyPath.java)
