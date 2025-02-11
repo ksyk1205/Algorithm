@@ -148,6 +148,7 @@
 - [Remove Elements](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/RemoveElements.java)
 - [Remove Duplicates from Sorted Array](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/RemoveDuplicatesFromSortedArray.java)
 - [Remove Duplicates from Sorted Array II](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/RemoveDuplicatesFromSortedArray2.java)
+- [Majority Element](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/MajorityElement.java)
 
 #### Two Pointers
 - [Valid Palindrome](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/ValidPalindrome.java)
@@ -160,6 +161,7 @@
 #### Hashmap
 - [Ransom Note](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/RansomNote.java)
 - [Isomorphic Strings](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/IsomorphicStrings.java)
+- [Word Pattern](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/WordPattern.java)
 
 #### Stack
 - [Valid Parentheses](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/ValidParentheses.java)
