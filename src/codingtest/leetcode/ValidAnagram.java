@@ -9,8 +9,8 @@ import java.util.Map;
 public class ValidAnagram {
 
   public static void main(String[] args) {
-    System.out.println(isAnagram("anagram", "nagaram"));
-    System.out.println(isAnagram("rat", "car"));
+    System.out.println(isAnagram("anagram", "nagaram")); // true
+    System.out.println(isAnagram("rat", "car")); // false
   }
 
   public static boolean isAnagram(String s, String t) {
