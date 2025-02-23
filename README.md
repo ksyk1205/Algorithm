@@ -150,7 +150,7 @@
 - [Remove Duplicates from Sorted Array II](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/RemoveDuplicatesFromSortedArray2.java)
 - [Majority Element](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/MajorityElement.java)
 - [Rotate Array](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/MajorityElement.java)
-- [Best Time to Buy and Sell Stock](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/RotateArray.java)
+- [Best Time to Buy and Sell Stock](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/BestTimetoBuyandSellStock.java)
 
 #### Two Pointers
 - [Valid Palindrome](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/ValidPalindrome.java)
