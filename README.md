@@ -178,3 +178,4 @@
 
 #### Breadth-First Search
 - [Minimum Depth of Binary Tree](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/MinimumDepthOfBinaryTree.java)
+- [Path Sum](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/PathSum.java)
