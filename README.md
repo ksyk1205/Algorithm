@@ -40,6 +40,7 @@
 - [옹알이](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/Babbling.java)
 - [PCCP 기출문제 1번 / 동영상 재생기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/VideoPlayer.java)
 - [PCCE 기출문제 9번 / 지폐 접기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/BillFolding.java)
+- [택배 상자 꺼내기](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/TakeOutDeliveryBox.java)
 
 #### 🚀 Level 2
 - [전화번호 목록](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/UnsuccessfulRunner.java)
@@ -180,3 +181,4 @@
 - [Minimum Depth of Binary Tree](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/MinimumDepthOfBinaryTree.java)
 - [Path Sum](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/PathSum.java)
 - [Binary Tree Level Order Traversal](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/BinaryTreeLevelOrderTraversal.java)
+- [Binary Tree Zigzag Level Order Traversal](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/BinaryTreeZigzagLevelOrderTraversal.java)
