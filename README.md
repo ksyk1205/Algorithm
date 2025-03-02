@@ -83,6 +83,7 @@
 - [예상 대진표](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/ExpectedMatchSheet.java)
 - [마법의 엘레베이터](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/MagicalElevator.java)
 - [게임 맵 최단거리](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/GameMapShortestDistance.java)
+- [주차 요금 계산](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/CalculationOfParkingFees.java)
 
 #### 🔥 Level 3
 - [베스트 앨범](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/programmers/BestAlbum.java)
@@ -181,4 +182,5 @@
 - [Minimum Depth of Binary Tree](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/MinimumDepthOfBinaryTree.java)
 - [Path Sum](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/PathSum.java)
 - [Binary Tree Level Order Traversal](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/BinaryTreeLevelOrderTraversal.java)
+- [Binary Tree Level Order Traversal II](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/BinaryTreeLevelOrderTraversal2.java)
 - [Binary Tree Zigzag Level Order Traversal](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/BinaryTreeZigzagLevelOrderTraversal.java)
