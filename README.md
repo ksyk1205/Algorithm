@@ -181,6 +181,7 @@
 - [Maximum Depth of Binary Tree](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/MaximumDepthOfBinaryTree.java)
 - [Same Tree](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/SameTree.java)
 - [Symmetric Tree](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/SymmetricTree.java)
+- [Invert Binary Tree](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/InvertBinaryTree.java)
 
 #### Breadth-First Search
 - [Minimum Depth of Binary Tree](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/MinimumDepthOfBinaryTree.java)
