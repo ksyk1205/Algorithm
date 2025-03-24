@@ -158,6 +158,7 @@
 - [Jump Game](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/JumpGame.java)
 - [Jump Game II](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/JumpGameII.java)
 - [Length of Last Word](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/LengthofLastWord.java)
+- [Longest Common Prefix](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/LongestCommonPrefix.java)
 
 #### Two Pointers
 - [Valid Palindrome](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/ValidPalindrome.java)
@@ -174,6 +175,7 @@
 - [Word Pattern](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/WordPattern.java)
 - [Valid Anagram](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/ValidAnagram.java)
 - [Two Sum](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/TwoSum.java)
+- [Happy Number](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/HappyNumber.java)
 
 #### Stack
 - [Valid Parentheses](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/ValidParentheses.java)
