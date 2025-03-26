@@ -197,3 +197,7 @@
 - [Binary Tree Level Order Traversal](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/BinaryTreeLevelOrderTraversal.java)
 - [Binary Tree Level Order Traversal II](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/BinaryTreeLevelOrderTraversal2.java)
 - [Binary Tree Zigzag Level Order Traversal](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/BinaryTreeZigzagLevelOrderTraversal.java)
+
+#### Math
+- [Palindrome Number](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/PalindromeNumber.java)
+- [Plus One](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/PlusOne.java)
