@@ -159,6 +159,7 @@
 - [Jump Game II](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/JumpGameII.java)
 - [Length of Last Word](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/LengthofLastWord.java)
 - [Longest Common Prefix](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/LongestCommonPrefix.java)
+- [Find the Index of the First Occurrence in a String](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/FindTheIndexOfTheFirstOccurrenceInAString.java)
 
 #### Two Pointers
 - [Valid Palindrome](https://github.com/ksyk1205/Algorithm/blob/master/src/codingtest/leetcode/ValidPalindrome.java)
